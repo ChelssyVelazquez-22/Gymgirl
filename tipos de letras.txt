@@ -1,0 +1,19 @@
+<h1> tipo 1 </h1><br>
+<h2> tipo 2 </h2><br>
+<h3> tipo 3 </h3><br>
+<h4> tipo 4 </h4><br>
+<h5> tipo 5 </h5><br>
+<h6> tipo 6 </h6><br>
+<p>Chels </p><br>
+<b>Chels </b><br>
+<strong >Chels </srong><br>
+<i> Chels </i><br>
+<em> Chels </em><br>
+<u> Chels </u><br>
+<small> Chels </small><br>
+<big> Chels </big><br>
+<sub> Chels </sub><br>
+<sup> Chels </sup><br>
+<strike> Chels </strike><br>
+<s> Chels </s><br>
+<del> Chels </del><br>
